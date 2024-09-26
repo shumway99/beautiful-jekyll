@@ -21,10 +21,9 @@ gosling:
   - not ryan reynolds
 ---
 
-
 # Ryan v Ryan Liquid Table
 
-![]({{site.url}}/assets/img/ryan-v-ryan.jpg)  
+![]({{site.url}}{{site.baseurl}}/assets/img/ryan-v-ryan.jpg)  
 
 
 ## Lorem Ipsum
