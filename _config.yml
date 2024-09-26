@@ -14,6 +14,9 @@ author: Kathryn Shumway Bracken
 # Short description of your site
 description: School project to practice web development. 
 
+#Define site url
+url: https://shumway99.github.io/beautiful-jekyll/
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
